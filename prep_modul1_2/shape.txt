@@ -1,0 +1,9 @@
+﻿0,Red,10,Blue,15,Yellow,18
+1,15,18
+0,Red,12,Blue,13,Pink,18
+0,Blue,11,Blue,15,Yellow,19
+1,20,15
+1,18,8
+0,Red,12,Red,13,Red,18
+0,Blue,11,Blue,15,Blue,19
+0,Red,12,Red,13,Red,18
